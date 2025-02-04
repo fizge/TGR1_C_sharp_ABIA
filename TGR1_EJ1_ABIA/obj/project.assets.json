@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fizga\\Desktop\\ABIA\\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\\Pract1.csproj",
+      "projectUniqueName": "C:\\Users\\fizga\\Desktop\\ABIA\\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\\TGR1_EJ1_ABIA\\Pract1.csproj",
       "projectName": "Pract1",
-      "projectPath": "C:\\Users\\fizga\\Desktop\\ABIA\\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\\Pract1.csproj",
+      "projectPath": "C:\\Users\\fizga\\Desktop\\ABIA\\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\\TGR1_EJ1_ABIA\\Pract1.csproj",
       "packagesPath": "C:\\Users\\fizga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fizga\\Desktop\\ABIA\\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\\obj\\",
+      "outputPath": "C:\\Users\\fizga\\Desktop\\ABIA\\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\\TGR1_EJ1_ABIA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fizga\\AppData\\Roaming\\NuGet\\NuGet.Config"
