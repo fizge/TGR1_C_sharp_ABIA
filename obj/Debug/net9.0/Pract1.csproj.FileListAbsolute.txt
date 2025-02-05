@@ -1,0 +1,73 @@
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\Pract1\bin\Debug\net9.0\Pract1.exe
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\Pract1\bin\Debug\net9.0\Pract1.deps.json
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\Pract1\bin\Debug\net9.0\Pract1.runtimeconfig.json
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\Pract1\bin\Debug\net9.0\Pract1.dll
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\Pract1\bin\Debug\net9.0\Pract1.pdb
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\Pract1\obj\Debug\net9.0\Pract1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\Pract1\obj\Debug\net9.0\Pract1.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\Pract1\obj\Debug\net9.0\Pract1.AssemblyInfo.cs
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\Pract1\obj\Debug\net9.0\Pract1.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\Pract1\obj\Debug\net9.0\Pract1.dll
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\Pract1\obj\Debug\net9.0\refint\Pract1.dll
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\Pract1\obj\Debug\net9.0\Pract1.pdb
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\Pract1\obj\Debug\net9.0\Pract1.genruntimeconfig.cache
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\Pract1\obj\Debug\net9.0\ref\Pract1.dll
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\bin\Debug\net9.0\Pract1.exe
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\bin\Debug\net9.0\Pract1.deps.json
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\bin\Debug\net9.0\Pract1.runtimeconfig.json
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\bin\Debug\net9.0\Pract1.dll
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\bin\Debug\net9.0\Pract1.pdb
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.AssemblyInfo.cs
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.dll
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\refint\Pract1.dll
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.pdb
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.genruntimeconfig.cache
+C:\Users\guill\Desktop\School\IA 2 2024-2025\Cuatrimestre 4\ABIA\Prácticas\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\ref\Pract1.dll
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\bin\Debug\net9.0\Pract1.exe
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\bin\Debug\net9.0\Pract1.deps.json
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\bin\Debug\net9.0\Pract1.runtimeconfig.json
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\bin\Debug\net9.0\Pract1.dll
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\bin\Debug\net9.0\Pract1.pdb
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.AssemblyInfoInputs.cache
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.AssemblyInfo.cs
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.csproj.CoreCompileInputs.cache
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.dll
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\refint\Pract1.dll
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.pdb
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.genruntimeconfig.cache
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\ref\Pract1.dll
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\bin\Debug\net9.0\Pract1.exe
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\bin\Debug\net9.0\Pract1.deps.json
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\bin\Debug\net9.0\Pract1.runtimeconfig.json
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\bin\Debug\net9.0\Pract1.dll
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\bin\Debug\net9.0\Pract1.pdb
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.AssemblyInfoInputs.cache
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.AssemblyInfo.cs
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.csproj.CoreCompileInputs.cache
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.sourcelink.json
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.dll
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\obj\Debug\net9.0\refint\Pract1.dll
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.pdb
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.genruntimeconfig.cache
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\TGR1_EJ1_ABIA\obj\Debug\net9.0\ref\Pract1.dll
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\bin\Debug\net9.0\Pract1.exe
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\bin\Debug\net9.0\Pract1.deps.json
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\bin\Debug\net9.0\Pract1.runtimeconfig.json
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\bin\Debug\net9.0\Pract1.dll
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\bin\Debug\net9.0\Pract1.pdb
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.AssemblyInfoInputs.cache
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.AssemblyInfo.cs
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.csproj.CoreCompileInputs.cache
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.sourcelink.json
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.dll
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\obj\Debug\net9.0\refint\Pract1.dll
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.pdb
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\obj\Debug\net9.0\Pract1.genruntimeconfig.cache
+C:\Users\blanc\OneDrive\Escritorio\School\IA_2_2024-2025\Cuatrimestre_4\ABIA\Prácticas\TGR1_C_sharp_ABIA\TGR1_C_sharp_ABIA\TGR1_EJ1_ABIA\obj\Debug\net9.0\ref\Pract1.dll
+C:\Users\fizga\Desktop\ABIA\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\obj\Debug\net9.0\Pract1.sourcelink.json
