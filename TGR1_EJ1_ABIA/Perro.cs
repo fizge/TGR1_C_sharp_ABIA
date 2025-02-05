@@ -2,10 +2,10 @@ using System.Diagnostics;
 
 class Perro{
     string color;
-    int altura;
+    float altura;
     float peso;
-    Bolsa bolsa;
-    public Perro(string color, int altura, float peso, Bolsa bolsa){
+    public Bolsa bolsa;
+    public Perro(string color, float altura, float peso, Bolsa bolsa){
         this.color = color;
         this.altura = altura;
         this.peso = peso;
@@ -13,6 +13,10 @@ class Perro{
     }
 
     public void comerBola(Bolsa bolsa){
-        this.bolsa.bolas = Bolsa.retirarBola(bolsa.bolas);
+        bolsa.bolas = Bolsa.retirarBola(bolsa.bolas);
+    }
+
+    public void MostrarAtributos(){
+        Console.WriteLine("Color: " + color + "\tAltura: " + altura + "\tPeso: " + peso + "\tBolsa: " + bolsa.bolas);
     }
 }
