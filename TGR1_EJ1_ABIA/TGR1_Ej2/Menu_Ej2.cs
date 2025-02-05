@@ -1,0 +1,28 @@
+namespace TGR1_Ej2
+{
+    public class Menu_Ej2
+    {
+        static int n = -1;
+        public static void MostrarMenu(string[] args)
+        {
+        Console.WriteLine("¿Cuántas veces quieres clonar al perro?");
+            while (n <= 0){
+                n = Convert.ToInt32(Console.ReadLine());
+                if (n <= 0){
+                    Console.WriteLine("Número no válido, introduzca otro.");
+                }
+            Bolsa bolsa = new Bolsa("azul roja verde");
+            Perro perroOrig = new Perro("Rojo", 20f, 1.8f, bolsa);
+            perroOrig.MostrarAtributos();
+
+            for (int i = 0; i < n; i++){
+                Bolsa bolsaClon = new Bolsa("azul roja verde");
+                Perro perroClon = new Perro("Rojo", 20f, 1.8f, bolsaClon);
+                perroClon.comerBola(perroClon.bolsa);
+                perroClon.MostrarAtributos();
+
+            }
+            }
+        }
+    }
+}

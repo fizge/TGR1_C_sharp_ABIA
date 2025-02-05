@@ -1,4 +1,6 @@
-﻿public class Program
+﻿using TGR1_Ej1;
+using TGR1_Ej2;
+public class Program
 {
     public static void Main(string[] args){
         int eleccion = 0;
@@ -19,12 +21,7 @@
     
     public static void Ej1(string[] args)
     {
-        string ruta = null;
-        Dictionary<string, float> notas = new Dictionary<string, float>();
-
-        //EJEMPLO DE RUTA
-        //C:\\Users\\fizga\\Desktop\\ABIA\\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\\TGR1_EJ1_ABIA\\Alumnos.csv
-        Menu_Ej1.MostrarMenu(ref notas, ref ruta);
+        Menu_Ej1.MostrarMenu(args);
     }
 
     public static void Ej2(string[] args)
