@@ -51,7 +51,7 @@ namespace TGR1_Ej1
                         notaValida = notaValida.Replace(",", ".");
                     }
             
-                    if (float.TryParse(notaValida, NumberStyles.Any, CultureInfo.InvariantCulture, out float notaFloat))
+                    if (float.TryParse(notaValida, CultureInfo.InvariantCulture, out float notaFloat))
                     {
                         notas[nombre] = notaFloat;
                         Console.WriteLine("Nombre: " + nombre + "  |   Nota: " + notaFloat);
