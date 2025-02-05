@@ -1,4 +1,4 @@
-public class Menu
+public class Menu_Ej1
 {
     public static void MostrarMenu(ref Dictionary<string, float> notas, ref string ruta)
     {
