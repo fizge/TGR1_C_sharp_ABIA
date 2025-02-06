@@ -1,9 +1,16 @@
 namespace TGR1_Ej1
 {
+    /// <summary>
+    /// Clase que maneja el menú para el ejercicio 1.
+    /// </summary>
     public class Menu_Ej1
     {
         public static string ruta = null;
         public static Dictionary<string, float> notas = new Dictionary<string, float>();
+
+        /// <summary>
+        /// Muestra el menú y maneja las opciones para gestionar notas.
+        /// </summary>
         public static void MostrarMenu()
         {
             string opcion;
@@ -37,14 +44,14 @@ namespace TGR1_Ej1
                         Funciones.NotaMin(notas);
                         break;
                     case "5":
-                        Funciones.AñadirNota(notas);
+                        Funciones.AnadirNota(notas);
                         break;
                     case "6":
                         Funciones.GuardarNotas(ruta, notas);
                         break;
                     case "7":
                         Console.WriteLine("Cerrando...");
-                        return; 
+                        return;
                     default:
                         Console.WriteLine("Opción no válida. Intenta de nuevo.");
                         break;

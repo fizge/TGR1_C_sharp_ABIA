@@ -1,8 +1,17 @@
 using System.Globalization;
+
 namespace TGR1_Ej1
 {
+    /// <summary>
+    /// Clase que contiene funciones auxiliares para gestionar notas.
+    /// </summary>
     public class Funciones
     {
+        /// <summary>
+        /// Carga los datos de un fichero .csv en un diccionario de notas.
+        /// </summary>
+        /// <param name="ruta">Ruta del fichero .csv.</param>
+        /// <param name="notas">Diccionario donde se almacenarán las notas.</param>
         public static void CargarDatos(ref string ruta, Dictionary<string, float> notas)
         {
             Console.WriteLine("\nCargando los datos de un fichero .csv ...");
@@ -35,32 +44,39 @@ namespace TGR1_Ej1
 
                 foreach (string linea in lineas)
                 {
-                    string[] valores = linea.Split(';');
-                    if (valores.Length != 2)
+                    if (linea.Length == 0)
                     {
-                        Console.WriteLine("\n\nERROR: La estructura del archivo no es válida.");
-                        notas.Clear();
-                        return;
-                    }
 
-                    string nombre = valores[0];
-                    string notaValida = valores[1];
-            
-                    if (notaValida.Contains(","))
-                    {
-                        notaValida = notaValida.Replace(",", ".");
-                    }
-            
-                    if (float.TryParse(notaValida, CultureInfo.InvariantCulture, out float notaFloat))
-                    {
-                        notas[nombre] = notaFloat;
-                        Console.WriteLine("Nombre: " + nombre + "  |   Nota: " + notaFloat);
                     }
                     else
                     {
-                        Console.WriteLine("Error: Existen nota/s no válida/s en el archivo.");
-                        notas.Clear();
-                        return;
+                        string[] valores = linea.Split(';');
+                        if (valores.Length != 2)
+                        {
+                            Console.WriteLine("\n\nERROR: La estructura del archivo no es válida.");
+                            notas.Clear();
+                            return;
+                        }
+
+                        string nombre = valores[0];
+                        string notaValida = valores[1];
+                
+                        if (notaValida.Contains(","))
+                        {
+                            notaValida = notaValida.Replace(",", ".");
+                        }
+                
+                        if (float.TryParse(notaValida, CultureInfo.InvariantCulture, out float notaFloat))
+                        {
+                            notas[nombre] = notaFloat;
+                            Console.WriteLine("Nombre: " + nombre + "  |   Nota: " + notaFloat);
+                        }
+                        else
+                        {
+                            Console.WriteLine("Error: Existen nota/s no válida/s en el archivo.");
+                            notas.Clear();
+                            return;
+                        }
                     }
                 }
             }
@@ -70,6 +86,10 @@ namespace TGR1_Ej1
             }
         }
 
+        /// <summary>
+        /// Calcula y muestra la nota media.
+        /// </summary>
+        /// <param name="notas">Diccionario de notas.</param>
         public static void NotaMedia(Dictionary<string, float> notas)
         {
             if (notas.Count == 0)
@@ -87,6 +107,10 @@ namespace TGR1_Ej1
             Console.WriteLine("La nota media es: " + media);
         }
 
+        /// <summary>
+        /// Encuentra y muestra la nota máxima.
+        /// </summary>
+        /// <param name="notas">Diccionario de notas.</param>
         public static void NotaMax(Dictionary<string, float> notas)
         {
             if (notas.Count == 0)
@@ -108,6 +132,10 @@ namespace TGR1_Ej1
             Console.WriteLine("La nota máxima es: " + max + ", obtenida por " + nombreMax);
         }
 
+        /// <summary>
+        /// Encuentra y muestra la nota mínima.
+        /// </summary>
+        /// <param name="notas">Diccionario de notas.</param>
         public static void NotaMin(Dictionary<string, float> notas)
         {
             if (notas.Count == 0)
@@ -129,7 +157,11 @@ namespace TGR1_Ej1
             Console.WriteLine("La nota mínima es: " + min + ", obtenida por " + nombreMin);
         }
 
-        public static void AñadirNota(Dictionary<string, float> notas)
+        /// <summary>
+        /// Añade una nueva nota al diccionario.
+        /// </summary>
+        /// <param name="notas">Diccionario de notas.</param>
+        public static void AnadirNota(Dictionary<string, float> notas)
         {   
             if (notas.Count == 0)
             {
@@ -141,14 +173,31 @@ namespace TGR1_Ej1
                 Console.WriteLine("Introduce el nombre del alumno:");
                 string nuevoNombre = Console.ReadLine();
                 Console.WriteLine("Introduce la nota del alumno:");
-                float nuevaNota = float.Parse(Console.ReadLine());
-                if (nuevaNota > 10 || nuevaNota < 0)
+                string nuevaNota = Console.ReadLine();
+
+                if (nuevaNota.Contains(","))
+                    {
+                        nuevaNota = nuevaNota.Replace(",", ".");
+                    }
+            
+                if (float.TryParse(nuevaNota, CultureInfo.InvariantCulture, out float nuevaNotaFloat))
+                    {
+                    }
+                    else
+                    {
+                        Console.WriteLine("Error: El formato de la nueva nota no es válido. Vuelva a intentarlo.");
+                        AnadirNota(notas);
+                        return;
+                    }
+                
+                if (nuevaNotaFloat > 10 || nuevaNotaFloat < 0)
                 {
-                    Console.WriteLine("Error: La nota debe estar entre 0 y 10.");
+                    Console.WriteLine("Error: La nota debe estar entre 0 y 10. Vuelva intentarlo.");
+                    AnadirNota(notas);
                     return;
                 }
-                notas[nuevoNombre] = nuevaNota;
-                Console.WriteLine("Nombre: " + nuevoNombre + "    |   Nota: " + nuevaNota);
+                notas[nuevoNombre] = nuevaNotaFloat;
+                Console.WriteLine("Nombre: " + nuevoNombre + "  |   Nota: " + nuevaNotaFloat);
             }
             catch (Exception ex)
             {
@@ -156,6 +205,11 @@ namespace TGR1_Ej1
             }
         }
 
+        /// <summary>
+        /// Guarda las notas en un fichero .csv.
+        /// </summary>
+        /// <param name="ruta">Ruta del fichero .csv.</param>
+        /// <param name="notas">Diccionario de notas.</param>
         public static void GuardarNotas(string ruta, Dictionary<string, float> notas)
         {
             if (notas.Count == 0 || ruta == null)

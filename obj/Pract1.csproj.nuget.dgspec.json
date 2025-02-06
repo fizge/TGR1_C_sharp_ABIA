@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fizga\\Desktop\\ABIA\\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\\Pract1.csproj": {}
+    "C:\\Users\\blanc\\OneDrive\\Escritorio\\School\\IA_2_2024-2025\\Cuatrimestre_4\\ABIA\\Prácticas\\TGR1_C_sharp_ABIA\\TGR1_C_sharp_ABIA\\Pract1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fizga\\Desktop\\ABIA\\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\\Pract1.csproj": {
+    "C:\\Users\\blanc\\OneDrive\\Escritorio\\School\\IA_2_2024-2025\\Cuatrimestre_4\\ABIA\\Prácticas\\TGR1_C_sharp_ABIA\\TGR1_C_sharp_ABIA\\Pract1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fizga\\Desktop\\ABIA\\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\\Pract1.csproj",
+        "projectUniqueName": "C:\\Users\\blanc\\OneDrive\\Escritorio\\School\\IA_2_2024-2025\\Cuatrimestre_4\\ABIA\\Prácticas\\TGR1_C_sharp_ABIA\\TGR1_C_sharp_ABIA\\Pract1.csproj",
         "projectName": "Pract1",
-        "projectPath": "C:\\Users\\fizga\\Desktop\\ABIA\\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\\Pract1.csproj",
-        "packagesPath": "C:\\Users\\fizga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fizga\\Desktop\\ABIA\\TGR1_ABIA_GuillermoBlancoNunez_FizGarridoEscudero\\obj\\",
+        "projectPath": "C:\\Users\\blanc\\OneDrive\\Escritorio\\School\\IA_2_2024-2025\\Cuatrimestre_4\\ABIA\\Prácticas\\TGR1_C_sharp_ABIA\\TGR1_C_sharp_ABIA\\Pract1.csproj",
+        "packagesPath": "C:\\Users\\blanc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\blanc\\OneDrive\\Escritorio\\School\\IA_2_2024-2025\\Cuatrimestre_4\\ABIA\\Prácticas\\TGR1_C_sharp_ABIA\\TGR1_C_sharp_ABIA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fizga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\blanc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
