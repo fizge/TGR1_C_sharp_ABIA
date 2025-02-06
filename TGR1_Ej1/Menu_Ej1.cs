@@ -1,3 +1,4 @@
+// Guillermo Blanco Nuñez y Fiz Garrido Escudero GRUPO JUEVES
 namespace TGR1_Ej1
 {
     /// <summary>

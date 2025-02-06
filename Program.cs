@@ -1,4 +1,6 @@
-﻿/// <summary>
+﻿// Guillermo Blanco Nuñez y Fiz Garrido Escudero GRUPO JUEVES
+
+/// <summary>
 /// Clase principal del proyecto.
 /// </summary>
 public class Program
